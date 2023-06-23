@@ -1,0 +1,6 @@
+projectKey=136:marvindemo
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/136:marvindemo
+ceTaskId=AYjnfykf0mavwqRNrfWQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYjnfykf0mavwqRNrfWQ
